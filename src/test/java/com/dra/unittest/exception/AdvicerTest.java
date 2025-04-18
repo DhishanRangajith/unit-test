@@ -11,7 +11,7 @@ import org.springframework.http.ResponseEntity;
 
 public class AdvicerTest {
 
-    ssssssss advicer = new ssssssss();
+    Advicer advicer = new Advicer();
 
     @Test
     public void handleNotFoundExp_shouldReturnExpectData(){
